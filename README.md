@@ -1,11 +1,9 @@
 # Overview
-I am a data scientist and software engineer specializing in extracting actionable intelligence from data. With a strong academic background in mathematics and data science, I am transitioning into a data science career, and I am excited to join a mission-driven company.
+I am a data scientist and software engineer specializing in extracting actionable intelligence from data. With a strong academic background in mathematics and data science, I am transitioning into a data science career.
 
-I am an expert in modern data science practices, modern AI practices, agentic workflows, and machine learning infrastructure and implementation. I am passionate about coding with an emphasis on craftsmanship, clean code, code readability, and documentation.
+I am trained in modern data science practices, modern AI practices, agentic workflows, and machine learning infrastructure and implementation. I am passionate about coding with an emphasis on craftsmanship, clean code, code readability, and documentation. I showcase my work publicly on Github and enjoy tackling challenging problems that force me to expand my repertoire and learn new technologies.
 
-I am well versed in the Python data science ecosystem and data science infrastructure and design. I am adept at data curation, data visualization, and business intelligence. My experience is broad, with knowledge of LLMs, computer vision, natural language processing, data wrangling, and a wide variety of data modeling techniques.
-
-I showcase my work publicly on Github. I enjoy tackling challenging problems that force me to expand my repertoire and learn new technologies.
+I am well versed in the Python data science ecosystem and data science infrastructure and design, including data curation, data visualization, and business intelligence. My experience is broad, with knowledge of LLMs, computer vision, natural language processing, data wrangling, and a wide variety of data modeling techniques.
 
 # Projects
 ## Agentic and Neural Network Projects
